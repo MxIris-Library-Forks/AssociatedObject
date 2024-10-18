@@ -6,7 +6,7 @@ import CompilerPluginSupport
 let package = Package(
     name: "AssociatedObject",
     platforms: [
-        .iOS(.v13),
+        .iOS(.v12),
         .macOS(.v10_15)
     ],
     products: [
