@@ -14,17 +14,17 @@
       "kind" : "remoteSourceControl",
       "location" : "https://github.com/MxIris-Library-Forks/swift-literal-type-inference.git",
       "state" : {
-        "branch" : "main",
-        "revision" : "ee038e38d8d540cbef6c457ca1cd464e173dc66f"
+        "revision" : "705388a7576cf09ee3a76d67cac0f8201144448e",
+        "version" : "0.4.1"
       }
     },
     {
       "identity" : "swift-macro-testing",
       "kind" : "remoteSourceControl",
-      "location" : "https://github.com/pointfreeco/swift-macro-testing.git",
+      "location" : "https://github.com/MxIris-Library-Forks/swift-macro-testing.git",
       "state" : {
-        "revision" : "cfe474c7e97d429ea31eefed2e9ab8c7c74260f9",
-        "version" : "0.6.2"
+        "revision" : "a85654defee8c9d963392a20c26030c674f05f94",
+        "version" : "0.6.3"
       }
     },
     {
@@ -39,18 +39,18 @@
     {
       "identity" : "swift-snapshot-testing",
       "kind" : "remoteSourceControl",
-      "location" : "https://github.com/pointfreeco/swift-snapshot-testing",
+      "location" : "https://github.com/MxIris-Library-Forks/swift-snapshot-testing",
       "state" : {
-        "revision" : "1be8144023c367c5de701a6313ed29a3a10bf59b",
-        "version" : "1.18.3"
+        "revision" : "c0a57c8415fb669cb44e7a688e70ce414167e06d",
+        "version" : "1.18.4"
       }
     },
     {
       "identity" : "swift-syntax",
       "kind" : "remoteSourceControl",
-      "location" : "https://github.com/swiftlang/swift-syntax.git",
+      "location" : "https://github.com/swift-precompiled/swift-syntax.git",
       "state" : {
-        "revision" : "f99ae8aa18f0cf0d53481901f88a0991dc3bd4a2",
+        "revision" : "fc197a24fb2e77609fbe3d94624e36f84d758099",
         "version" : "601.0.1"
       }
     },
@@ -59,8 +59,8 @@
       "kind" : "remoteSourceControl",
       "location" : "https://github.com/pointfreeco/xctest-dynamic-overlay",
       "state" : {
-        "revision" : "b444594f79844b0d6d76d70fbfb3f7f71728f938",
-        "version" : "1.5.1"
+        "revision" : "39de59b2d47f7ef3ca88a039dff3084688fe27f4",
+        "version" : "1.5.2"
       }
     }
   ],

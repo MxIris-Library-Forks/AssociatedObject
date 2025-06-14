@@ -17,20 +17,20 @@ let package = Package(
     ],
     dependencies: [
         .package(
-            url: "https://github.com/swiftlang/swift-syntax.git",
+            url: "https://github.com/swift-precompiled/swift-syntax.git",
             from: "601.0.1"
         ),
         .package(
             url: "https://github.com/MxIris-Library-Forks/swift-literal-type-inference.git",
-            branch: "main"
+            from: "0.4.1"
         ),
         .package(
             url: "https://github.com/p-x9/swift-object-association.git",
             from: "0.5.0"
         ),
         .package(
-            url: "https://github.com/pointfreeco/swift-macro-testing.git",
-            from: "0.6.2"
+            url: "https://github.com/MxIris-Library-Forks/swift-macro-testing.git",
+            from: "0.6.3"
         )
 
     ],
